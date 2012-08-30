@@ -1,0 +1,4 @@
+git+git://projects.archlinux.org/users/remy/pyalpm.git#egg=pyalpm
+PyYAML
+docopt
+clint
